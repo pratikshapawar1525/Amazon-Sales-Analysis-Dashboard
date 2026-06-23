@@ -6,8 +6,9 @@ The Amazon Sales Analysis Dashboard was created to analyze sales performance and
 
 ## Dataset Used
 
-* Amazon Sales Dataset (Excel)
-* Data cleaned and transformed using Power Query and analyzed in Power BI.
+- <a href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon_Combined_Data.xlsx">Amazon_Combined_Data</a>
+
+-
 
 ## Questions (KPIs)
 
