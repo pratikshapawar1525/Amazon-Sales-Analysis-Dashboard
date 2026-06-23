@@ -51,7 +51,7 @@ The Amazon Sales Analysis Dashboard was created to analyze sales performance and
 
 ## Dashboard
 
-<a href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/amazon%20dashboard.jpeg">
+![Screenshot (495)](href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/amazon%20dashboard.jpeg")
 
 ## Outcome
 
