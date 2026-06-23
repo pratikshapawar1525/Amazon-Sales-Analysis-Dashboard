@@ -21,6 +21,8 @@ The Amazon Sales Analysis Dashboard was created to analyze sales performance and
 * Which products have the strongest sales performance?
 * What insights can be derived from category-wise analysis?
 
+- Dashboard Interaction <a href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/amazon%20dashboard.jpeg">View Dashboard<\a>
+
 ## Process
 
 * Verified the dataset for missing values and inconsistencies.
@@ -49,7 +51,7 @@ The Amazon Sales Analysis Dashboard was created to analyze sales performance and
 
 ## Dashboard
 
-(Add your dashboard screenshot here)
+<a href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/amazon%20dashboard.jpeg">
 
 ## Outcome
 
