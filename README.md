@@ -8,7 +8,7 @@ The Amazon Sales Analysis Dashboard was created to analyze sales performance and
 
 - <a href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon_Combined_Data.xlsx">Amazon_Combined_Data</a>
 
--
+- <a href="https://github.com/pratikshapawar1525/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon%20sales%20Analysis%20dashboard.pbix">Amazon sales Analysis dashboard</a>
 
 ## Questions (KPIs)
 
